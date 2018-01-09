@@ -2,6 +2,8 @@
 
 It's time to see some CSS code in action. [Codepen][] is a great tool to easily test HTML and CSS code and it's what we will use for our example.
 
+## Code Example HTML Structure
+
 This [Pen][] (saved [Codepen][] document) contains an HTML document with the following structure:
 
 - a [`<body>`][] element (root of the html content. In [Codepen][] we will not see a body tag, it's implicitly present and wraps all the HTML content)
@@ -10,6 +12,8 @@ This [Pen][] (saved [Codepen][] document) contains an HTML document with the fol
 - [`<p>`][] tags to wrap the [`<article>`]'s unstructured text
 - [`<ul>`][] tags to represent un-ordered lists
 - [`<li>`][] tags to wrap each list item
+
+## Code Example CSS Structure
 
 The [Pen][] also includes commented out CSS Code to (`/* this is a CSS comment */`):
 - Set the background of the [`<body>`] element (whole document) to `#00b3e6` (light blue)
@@ -23,19 +27,23 @@ The [Pen][] also includes commented out CSS Code to (`/* this is a CSS comment *
 
 # Code Along Instructions
 
-View this [Pen][] in your browser. You should see a page similar to this:
+Open the [Pen][] in a separate browswer tab to follow the code along instructions.
+
+## Pen Screenshot
 
 ![][Pen homepage]
 
-We will modify the CSS code to transform the page from:
+## Unstyled HTML Document Screenshot
 
 ![][Unstyled page]
 
-to:
+## Styled HTML Document Screenshot
 
 ![][Styled page]
 
-All the CSS code you need to successfully modify the page is already included but commented out. All you need to do is un-comment all the `CSS declarations` (`property-name`:`value`) one by one. See the screenshot below:
+All the CSS code you need to successfully modify the page is already included but commented out. All you need to do is uncomment all the `CSS declarations` (`property-name`:`value`) one by one.
+
+## CSS Declarations Uncommenting Steps
 
 ![][Uncomment instructions]   
 

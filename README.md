@@ -60,3 +60,4 @@ All the CSS code you need to successfully modify the page is already included bu
 [`<p>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p
 [`<ul>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
 [`<li>`]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li
+<p data-visibility='hidden'>PHRG Introduction</p>
